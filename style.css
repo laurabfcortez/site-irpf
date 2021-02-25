@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    background-color: lightcyan;
+    width: 1080px;
+    margin: auto;
+}
+
+.artigo{
+    padding: 18px;
+    text-align: justify;
+}
+
+
+
+a:link {
+ text-decoration: none;
+ color: lightpink;
+
+}
+
+a:hover {
+ text-decoration: underline;
+}
+
+#topo {
+ padding: 4px;
+ background-color: rgb(247, 211, 207);
+ text-align: right;
+ padding-right: 16px;
+}
+
+#navegaçao {
+background-color: beige;
+margin: 0px;
+position: sticky;
+top:0px;
+}
+
+#destaque {
+    height: 300px;
+    margin:0px;
+    background-color: salmon;
+}
+
+.menu{
+    list-style: none;
+    padding: 16px;
+    margin-top: 0px;
+    margin:0px;
+}
+
+.menu > li{
+    display: inline;
+    padding: 16px;
+    color: blue;
+}
+
+#rodape {
+    background-color: powderblue;
+    padding: 16px;
+    text-align: center;
+}
