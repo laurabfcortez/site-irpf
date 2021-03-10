@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    background-color: lightcyan;
+    width: 80%;
+    margin: auto;
+    
+}
+.estilo{
+    background-color: rgb(247, 211, 207);
+    padding-right: 50px;
+    text-align: center;
+    padding: 16px;
+    position: absolute right;
+}
+#topo {
+    padding: 4px;
+    background-color: rgb(247, 211, 207);
+    text-align: right;
+    padding-right: 16px;
+   }
+   .head{
+   padding-bottom: 0px;
+   font-size: 15px;
+   padding-top: 10px;
+   text-align: left;
+   padding-left: 30px;
+   padding-top: 110px;
+   color: #003366   }
+
+   .texto{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    text-align: justify;
+    padding-bottom: 22px;
+    padding-left: 15px;
+    padding-right: 20px;
+    padding-top: 0pc;
+   }
+
+   #destaque {
+    height: 300px;
+    margin:0px;
+    background-color: salmon;
+
+}
+
+   
