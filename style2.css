@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif; }
+    #container{
+        background-color: lightcyan;
+        width: 80%;
+        margin: auto;  
+    }
+    .estilo{
+        background-color: rgb(247, 211, 207);
+        text-align: center;
+        padding: 16px;
+        position: absolute;
+        width: 1050px;
+    }
+
+    #topo {
+        padding: 4px;
+        background-color: rgb(247, 211, 207);
+        text-align: right;
+        padding-right: 16px;
+       }
+       .tittle1{
+        font-size: 16px;
+        padding-top: 10px;
+        text-align: left;
+        padding-left: 30px;
+        padding-bottom: 0mm;
+        color: #003366}
+
+        #foto{
+            padding-left:400px;
+            padding-top:30px;
+
+        }
+
+        
+        
+        .eu{
+    
+                font-family: Georgia, 'Times New Roman', Times, serif;
+                font-size: 19px;
+                text-align: justify;
+                padding-bottom: 0px;
+                padding-left: 15px;
+                padding-right: 20px;
+                
+            
+        }
+      
+        

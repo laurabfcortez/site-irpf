@@ -5,16 +5,71 @@ body{
 }
 #container{
     background-color: lightcyan;
-    width: 1080px;
+    width: 80%;
     margin: auto;
+    
 }
 
 .artigo{
-    padding: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 15px;
+    padding-top: 0px;
     text-align: justify;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 20px;
 }
 
+.tittle1{
+padding-bottom: 0px;
+font-size: 14px;
+padding-top: 110px;
+text-align: left;
+padding-left: 30px;
+color: #003366
 
+}
+
+.tittle2{
+    font-size: 18px;
+    padding-top: 0px;
+    text-align: left;
+    padding-left: 30px;
+    color: #003366
+    }
+
+.tittle3{
+    padding-bottom: 0px;
+font-size: 14px;
+padding-top: 5px;
+text-align: left;
+padding-left: 30px;
+color: #003366
+
+}
+
+.explicando{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 15px;
+    padding-top: 0px;
+    text-align: justify;
+    padding-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 20px;
+}
+
+.auxílio{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 17px;
+    padding: 15px;
+    padding-top: 0px;
+    text-align: justify;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 20px;
+}
 
 a:link {
  text-decoration: none;
@@ -48,9 +103,7 @@ top:0px;
 
 .menu{
     list-style: none;
-    padding: 16px;
-    margin-top: 0px;
-    margin:0px;
+    padding: 10px;
 }
 
 .menu > li{
@@ -59,8 +112,10 @@ top:0px;
     color: blue;
 }
 
-#rodape {
-    background-color: powderblue;
-    padding: 16px;
+.estilo{
+    background-color: rgb(247, 211, 207);
+    padding-right: 50px;
     text-align: center;
+    padding: 16px;
+    position: absolute right;
 }
