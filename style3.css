@@ -1,21 +1,21 @@
 body{
     margin: 0;
-    background-color: lightblue;
+    background-color: #edf7fe;
     font-family: Arial, Helvetica, sans-serif; }
     #container{
-        background-color: lightcyan;
-        width: 80%;
+        background-color: whitesmoke;
+        width: 70%;
         margin: auto;  
     }
 #topo {
     padding: 4px;
-    background-color: rgb(247, 211, 207);
+    background-color: #f6eff6;
     text-align: right;
     padding-right: 16px;
    }
 
    .estilo{
-    background-color: rgb(247, 211, 207);
+    background-color:  #f6eff6;
     padding-right: 50px;
     text-align: center;
     padding: 16px;
@@ -24,10 +24,10 @@ body{
 .head{
     padding-bottom: 0px;
     font-size: 14px;
-    padding-top: 130px;
+    padding-top: 140px;
     text-align: center;
     padding-left: 30px;
-    color: lightcoral
+    color: gray
     
     
     }
@@ -56,3 +56,10 @@ body{
     background-color: salmon;
 
 }
+
+
+a:link {
+    text-decoration: none;
+    color: navy;
+   
+   }

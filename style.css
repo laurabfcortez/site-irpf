@@ -1,11 +1,11 @@
 body{
     margin: 0;
-    background-color: lightblue;
+    background-color: #edf7fe;
     font-family: Arial, Helvetica, sans-serif;
 }
 #container{
-    background-color: lightcyan;
-    width: 80%;
+    background-color: whitesmoke;
+    width: 70%;
     margin: auto;
     
 }
@@ -24,7 +24,7 @@ body{
 .tittle1{
 padding-bottom: 0px;
 font-size: 14px;
-padding-top: 110px;
+padding-top: 130px;
 text-align: left;
 padding-left: 30px;
 color: #003366
@@ -73,7 +73,7 @@ color: #003366
 
 a:link {
  text-decoration: none;
- color: lightsalmon;
+ color: navy;
 
 }
 
@@ -83,7 +83,7 @@ a:hover {
 
 #topo {
  padding: 4px;
- background-color: rgb(247, 211, 207);
+ background-color: #f6eff6;
  text-align: right;
  padding-right: 16px;
 }
@@ -99,6 +99,7 @@ top:0px;
     height: 300px;
     margin:0px;
     background-color: salmon;
+    
 }
 
 .menu{
@@ -113,7 +114,7 @@ top:0px;
 }
  
 .estilo{
-    background-color: rgb(247, 211, 207);
+    background-color: #f6eff6;
     padding-right: 50px;
     text-align: center;
     padding: 16px;
