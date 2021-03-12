@@ -10,6 +10,9 @@ body{
     
 }
 
+.barra{
+    padding-top:130px;
+}
 .artigo{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 17px;
@@ -24,7 +27,7 @@ body{
 .tittle1{
 padding-bottom: 0px;
 font-size: 14px;
-padding-top: 130px;
+padding-top: 10px;
 text-align: left;
 padding-left: 30px;
 color: #003366
