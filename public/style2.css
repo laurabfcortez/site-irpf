@@ -16,7 +16,7 @@ body{
     }
 
     .barra{
-        padding-top:130px;
+        padding-top: 30px;
         padding-bottom: 0mm;
     }
     /* Add a black background color to the top navigation */
@@ -87,12 +87,14 @@ body{
             
         }
       
-   #destaque {
-    height: 300px;
-    margin:0px;
-    background-color: navy;
-
-}
+        #destaque {
+          height: 100%;
+          margin:0px;
+          background-color: #213A7B;
+          width: auto;
+          
+      }
+      
         
 a:link {
     text-decoration: none;

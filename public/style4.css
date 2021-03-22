@@ -57,7 +57,7 @@ body{
   }
 
    .barra{
-    padding-top:130px;
+    padding-top:30px;
 }
    .head{
    padding-bottom: 0px;
@@ -77,12 +77,14 @@ body{
     padding-top: 0pc;
    }
    #destaque {
-    height: 300px;
+    height: 100%;
     margin:0px;
-    background-color: navy;
-
+    background-color: #213A7B;
+    width: auto;
+    
 }
-        
+
+
 a:link {
     text-decoration: none;
     color: navy;

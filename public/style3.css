@@ -84,16 +84,16 @@ body{
 }
 
 .barra{
-    padding-top:130px;
+    padding-top:30px;
 }
 
 #destaque {
-    height: 300px;
-    margin:0px;
-    background-color: navy;
-
+  height: 100%;
+  margin:0px;
+  background-color: #213A7B;
+  width: auto;
+  
 }
-
 
 a:link {
     text-decoration: none;

@@ -45,7 +45,7 @@ body{
   }
 
 .barra{
-    padding-top:130px;
+    padding-top: 30px;
 }
 .artigo{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -133,10 +133,10 @@ top:0px;
 }
 
 #destaque {
-    height: 300px;
+    height: 100%;
     margin:0px;
-    background-color: navy;
-    width: 101%;
+    background-color: #213A7B;
+    width: auto;
     
 }
 
@@ -158,3 +158,4 @@ top:0px;
     padding: 16px;
     position: absolute right;
 }
+
