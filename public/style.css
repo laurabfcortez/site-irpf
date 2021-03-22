@@ -10,8 +10,8 @@ body{
     
 }
 
-/* Add a black background color to the top navigation */
-.topnav {
+ /* Add a black background color to the top navigation */
+ .topnav {
     background-color: whitesmoke;
     overflow: hidden;
   }
@@ -43,7 +43,7 @@ body{
   .topnav .icon {
     display: none;
   }
-  
+
 .barra{
     padding-top:130px;
 }
